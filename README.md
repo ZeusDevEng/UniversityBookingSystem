@@ -8,7 +8,7 @@ The UCSI Booking System simplifies the process of reserving meeting rooms, exam 
 
 **Accessing the System**
 
-To access the system as an admin, both the ID and password should be set as "admin".
+To access the system as an admin,  the ID should be set as "admin" and password "pass" you can change it inside the code.
 
 To access the system as a user, a member access must be created through the admin side.
 
