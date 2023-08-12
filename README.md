@@ -32,7 +32,7 @@ System Features
 
 To run the UCSI Booking System on your local machine, follow these steps:
 
-Clone the repository: git clone [https://github.com/ toshiro1944/UniversityBookingSystem ](https://github.com/your-username/ucsi-booking-system.git)
+Clone the repository: .[git clone]. (https://github.com/ ZeusDevEng/UniversityBookingSystem) 
 
 Navigate to the project directory: cd UniversityBookingSystem
 
