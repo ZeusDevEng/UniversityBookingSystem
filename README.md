@@ -45,6 +45,6 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ## Acknowledgments
 
-The UCSI Booking System was developed by Abdirisaq as a project for data structures and algorithms at UCSI University.
+The UCSI Booking System was developed by Abdirisaq Adan & Abdallah S. S. Abushammala as a project for data structures and algorithms subject.
 
-Special thanks to Dr. Islam Shayla and Abdallah S. S. Abushammala for their valuable guidance and support during the development process.
+Special thanks to Dr. Islam Shayla for her valuable guidance and support during the development process.
